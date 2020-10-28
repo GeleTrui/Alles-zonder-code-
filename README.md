@@ -1,3 +1,2 @@
-# Alles-zonder-code-
-Word en PDF files
-#PDF'jes etc
+# Alles zonder code, zoals word en pdf
+## het bestandje FinishedEscape moet ingevoerd worden op draw.io en is mijn vluchtelingverhaal
